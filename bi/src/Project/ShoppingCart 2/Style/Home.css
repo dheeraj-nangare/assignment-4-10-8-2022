@@ -1,0 +1,37 @@
+
+.cartItems{
+    margin: 20px 50px 0px 50px;
+}
+.container > h1:first-of-type{
+    margin-top: 20px;
+}
+button{
+    background-color: blue;
+    border-color: blue;
+    color: white;
+    
+    padding: 10px 20px 10px 20px;
+    margin: 10px auto 25px 110px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: white;
+    color: blue;
+}
+.cardBody{
+    padding-left: '30px';
+}
+.card{
+    border: 1px solid grey;
+}
+.image{
+    width: 230px;
+    height: auto;
+    margin-left: 60px;
+    position: absolute;
+}
+.imgContainer{
+    margin-top: 10px;
+    background-color: lightgray;
+    height: 350px;
+}

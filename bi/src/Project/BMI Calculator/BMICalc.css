@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;  
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width:500px;
+}
+.headerContainer{
+    background-color: blue;
+    color: aliceblue;
+    padding: 2px;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    padding: 10px 50px 10px 50px;
+    font-size: x-large;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin-left: 33px;
+}
+button:hover{
+    background-color: white;
+    color: blue;
+}
+input{
+    height: 40px;
+    margin-left: 33px;
+}
+.bodyContainer{
+    margin-left: 120px;
+}
+#ansContainer{
+    text-align: center;
+}

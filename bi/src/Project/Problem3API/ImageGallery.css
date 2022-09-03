@@ -1,0 +1,30 @@
+#ImageContainer{
+    margin: 20px 30px 20px 30px;
+    display: inline-block;
+    width: 350px;
+    
+}
+h2{
+    text-align: center;
+    cursor: pointer;
+}
+h3{
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+}
+img{
+    width: 350px;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer;
+}
